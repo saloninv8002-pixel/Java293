@@ -90,14 +90,5 @@ public class task6{
         //tostring
         String s_1=sentence.toString();
         System.out.println("String : "+s_1);
-
-
-
-
-        
-
-
-
-
     }
 }
