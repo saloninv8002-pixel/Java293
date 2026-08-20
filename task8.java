@@ -146,7 +146,7 @@ public class task8{
         System.out.println("Second Smallest Number : "+second_smallest);
         System.out.println();
 
-        System.out.println("---NUMBER OF OCCURANCS---");
+        System.out.println("---NUMBER OF OCCURANCES---");
         int[] num_2={1,2,3,4,1,2,5,3,1,};
         for(int i=0;i<num_2.length;i++){
             int already_1=0;
