@@ -280,14 +280,6 @@ public class task8{
                 }
                 System.out.println(i1+"th column Sum : "+sum_column);
             }
-
-
-
-
-
-
-
-            
         }
     }
 
