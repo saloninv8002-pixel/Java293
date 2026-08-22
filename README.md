@@ -1,9 +1,9 @@
-# TASK 1
-## CONCEPTS COVERED:
+## TASK 1
+### CONCEPTS COVERED:
 Datatypes - Int,Double,String,Char,Boolean
 Conditional Statements - if, if...else, if...else if(Ladder), Ternary, Switch
 
-# PROGRAMS COVERED:
+### PROGRAMS COVERED:
 - ✓ Student and Employee Details
 - ✓ Sum and Average
 - ✓ Area and Perimeter
